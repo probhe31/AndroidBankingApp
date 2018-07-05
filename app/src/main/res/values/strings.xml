@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Banking</string>
+    <string name="enter_dni">Ingrese su DNI</string>
+    <string name="enter_password">Ingrese su contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="your_accounts">Tus cuentas</string>
+    <string name="transfer">Transferencia</string>
+    <string name="other">Otros</string>
+    <string name="last_movements">Últimos movimientos</string>
+    <string name="transfer_between_accounts">Tranferencia entre mis cuentas</string>
+    <string name="transfer_other_accounts">Transferencia a terceros</string>
+    <string name="favorites">Favoritos</string>
+    <string name="origin_account">Cuenta de origen</string>
+    <string name="destinity_account">Cuenta de destino</string>
+    <string name="ammount">Monto</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="select">Seleccionar</string>
+    <string name="error_invalid_password">Contraseña no válida</string>
+    <string name="error_field_required">Campo obligatorio</string>
+    <string name="error_invalid_dni">DNI incorrecto</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+
+
+</resources>
